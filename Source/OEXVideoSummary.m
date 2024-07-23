@@ -169,16 +169,16 @@
     return ([[self size] doubleValue] > 0.0);
 }
 
-- (BOOL)isSupportedVideo {
+- (BOOL)isSupportedVideo {	
     BOOL isSupportedEncoding = false;
     for(NSString* name in [OEXVideoEncoding knownEncodingNames]) {
         OEXVideoEncoding* encoding = self.encodings[name];
-        NSString *name = [encoding name];
+        NSString *encodingName = [encoding name];
         // fallback encoding can be with unsupported type like webm
-        if (([encoding URL] && [OEXInterface isURLForVideo:[encoding URL]]) && [self isSupportedEncoding:name]) {
+       if ([encodingName isEqualToString:OEXVideoEncodingYoutube] && OEXConfig.sharedConfig.youtubeVideoConfig.enabled) {
             isSupportedEncoding = true;
             break;
-        } else if ([[encoding name] isEqualToString:OEXVideoEncodingYoutube] && OEXConfig.sharedConfig.youtubeVideoConfig.enabled) {
+        } else if ([encoding URL] && [OEXInterface isURLForVideo:[encoding URL]]) {
             isSupportedEncoding = true;
             break;
         }
