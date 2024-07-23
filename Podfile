@@ -4,6 +4,7 @@ platform :ios, '13.0'
 source 'https://cdn.cocoapods.org/'
 
 project 'edX.xcodeproj'
+use_modular_headers!
 
 target 'edX' do
   pod 'Analytics', '= 4.1.8'
