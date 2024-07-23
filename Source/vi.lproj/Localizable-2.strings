@@ -30,15 +30,15 @@
 /*Error message title on course dashboard screen when audit access of course*/
 "COURSE_DASHBOARD.ERROR.COURSE_ENDED_TITLE" = "This course session has ended.";
 /* Label for date when course starts */
-"COURSE.STARTING" = "Starts {start_date}";
+"COURSE.STARTING" = "Bắt đầu vào {start_date}";
 /* Label for date when course end */
-"COURSE.ENDING" = "Ends {end_date}";
+"COURSE.ENDING" = "Kết thúc vào {end_date}";
 /* Label indicated that a course has ended */
-"COURSE.ENDED"="Ended on {end_date}";
+"COURSE.ENDED"="Đã kết thúc vào {end_date}";
 /* Course audit will expires on date*/
-"COURSE.AUDIT.EXPIRES_ON" = "Access expires {expiry_date}";
+"COURSE.AUDIT.EXPIRES_ON" = "Quyền truy cập hết hạn vào {expiry_date}";
 /* Course audit will expires in {time_duration}*/
-"COURSE.AUDIT.EXPIRES_IN" = "Access expires in {time_duration}";
+"COURSE.AUDIT.EXPIRES_IN" = "Quyền truy cập đã hết hạn vào {time_duration}";
 /* Course audit expired n days ago*/
 "COURSE.AUDIT.EXPIRED_DAYS_AGO" = "Access expired {days} days ago";
 /* Course audit expired in less than 24 hours*/
@@ -54,9 +54,9 @@
 /* Message for dialog when user is leaving the app when tapped on link to be opened in external browser */
 "LEAVING_APP_MESSAGE"="You are now leaving the {platform_name} app and opening a browser.";
 /*Title for the Learn in tabbar and navigation bar*/
-"LEARN"="Learn";
+"LEARN"="Học tập";
 /*Title My courses*/
-"MY_COURSES"="My courses";
+"MY_COURSES"="Khóa học của tôi";
 /*Title My programs*/
 "MY_PROGRAMS"="My programs";
 /*Title for Discovery*/

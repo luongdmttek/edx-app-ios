@@ -184,9 +184,9 @@
 /* Add your post button title used in discussion's add a post textview */
 "ADD_YOUR_POST"="Thêm bài đăng của bạn";
 /*Agreement text*/
-"AGREEMENT.TEXT"="bạn dã đồng ý với {eula} và {tos} và bạn đã chấp nhận rằng {platform_name} và mỗi Thành Viên được xử lý thông tin cá nhân của bạn theo {privacy_policy}";
+"AGREEMENT.TEXT"="bạn đã đồng ý với {eula} và {tos} và bạn đã chấp nhận rằng {platform_name} và mỗi Thành Viên được xử lý thông tin cá nhân của bạn theo {privacy_policy}";
 /*Agreement text prefix for user on signin screen*/
-"AGREEMENT.TEXT_PREFIX_SIGNIN"="Bằng việc đăng nhập vào ứng dụng";
+"AGREEMENT.TEXT_PREFIX_SIGNIN"="Bằng việc đăng nhập vào ứng dụng,";
 /*Agreement text prefix for user on signup screen*/
 "AGREEMENT.TEXT_PREFIX_SIGNUP"="Bằng viêc tạo tài khoản,";
 /*Link Text for End Use License Agreement*/
@@ -910,7 +910,7 @@
 /* Placeholder title for course content with no title */
 "UNTITLED"="Chưa có tiêu đề";
 /* Title text for login field */
-"USERNAME_TITLE_TEXT" = "Tên đăng nhập hoặc dịa chỉ e-mail";
+"USERNAME_TITLE_TEXT" = "MSSV hoặc địa chỉ e-mail";
 /*Error message when operation failed with unknow error*/
 "UNKNOWN_ERROR" = "Hành động của bạn không thể thực hiện.";
 /* Screen title showing a user's account */
