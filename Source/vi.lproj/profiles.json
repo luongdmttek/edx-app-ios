@@ -27,7 +27,7 @@
         },
         {
             "name" : "language_proficiencies",
-            "label" : "Ngôn ngư noi",
+            "label" : "Ngôn ngữ nói",
             "type" : "select",
             "data_type" : "language",
             "options" : {

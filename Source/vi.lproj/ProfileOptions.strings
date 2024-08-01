@@ -21,7 +21,7 @@
 /* Settings title for HELP */
 "PROFILE_OPTIONS.HELP.TITLE" = "Trợ giúp";
 /* Settings heading for feedback */
-"PROFILE_OPTIONS.HELP.HEADING.FEEDBACK" = "Submit feedback";
+"PROFILE_OPTIONS.HELP.HEADING.FEEDBACK" = "Gửi phản hồi";
 /* Settings message for feedback */
 "PROFILE_OPTIONS.HELP.MESSAGE.FEEDBACK" = "Bạn muốn yêu cầu một tính năng hoặc đưa ra một số phản hồi về ứng dụng của chúng tôi?";
 /* Settings message for feedback button title */
@@ -41,9 +41,9 @@
 /* Settings title for delete account web view*/
 "PROFILE_OPTIONS.DELETEACCOUNT.WEBVIEW_TITLE" = "Xóa tài khoản của bạn";
 /* Settings title for privacy */
-"PROFILE_OPTIONS.PRIVACY.TITLE" = "Privacy";
+"PROFILE_OPTIONS.PRIVACY.TITLE" = "Quyền riêng tư";
 /* Settings title for privacy */
-"PROFILE_OPTIONS.PRIVACY.PRIVACY_POLICY" = "Privacy Policy";
+"PROFILE_OPTIONS.PRIVACY.PRIVACY_POLICY" = "Chính sách bảo mật";
 /* Settings title for privacy cookie policy*/
 "PROFILE_OPTIONS.PRIVACY.COOKIE_POLICY" = "Cookie Policy";
 /* Settings title for privacy do not sell my personal data*/
